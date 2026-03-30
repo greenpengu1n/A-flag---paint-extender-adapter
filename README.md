@@ -4,7 +4,7 @@ note: very early draft
 
 Work in progress, if have any issues reach out to me through the bug tracker.
 
-The 3D print files and profiles can be found in the files section
+**The 3D print files and profiles can be found in the files section**
 
 here are some pictures: 
 <img width="1058" height="855" alt="image" src="https://github.com/user-attachments/assets/c077cbe2-b460-48d5-ad5d-f24d706827fb" />
