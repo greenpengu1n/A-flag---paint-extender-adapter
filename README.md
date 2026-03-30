@@ -3,3 +3,5 @@ was made as a response to this post: https://www.reddit.com/r/3Drequests/comment
 note: very early draft
 
 Work in progress, if have any issues reach out to me through the bug tracker.
+
+The 3D print files and profiles can be found in the files section
